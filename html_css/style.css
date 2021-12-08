@@ -1,0 +1,27 @@
+p {
+	color: blue;
+}
+
+a {
+	color: chocolate;
+}
+
+h1,
+h2,
+h3 {
+	color: brown;
+}
+
+#title {
+	color: blue;
+}
+
+body {
+	background-color: cyan;
+}
+
+.post {
+	background-color: white;
+	padding: 10px;
+	border: 5px solid black;
+}
